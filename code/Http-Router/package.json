@@ -1,0 +1,15 @@
+{
+  "name": "mini-http-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "path-to-regexp": "^6.2.2"
+  }
+}

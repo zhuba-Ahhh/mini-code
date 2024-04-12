@@ -1,0 +1,11 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  
+  "scripts": {
+    "example": "npx ts-node index.ts example -p 8000"
+  },
+  "license": "ISC"
+}
